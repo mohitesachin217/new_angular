@@ -1,0 +1,9 @@
+{
+    "name":"mysql_testing",
+    "description":"THis is description",
+    "version":"0.0.1",
+    "dependencies":{
+        "mysql":"2.x",
+        "async":"2.x"
+    }
+}
